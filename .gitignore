@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Vector store / FAISS
+vector_store/
+*.index
+*.pkl
+
+# Uploaded files
+uploads/
+
+# OS files
+Thumbs.db
+.DS_Store
